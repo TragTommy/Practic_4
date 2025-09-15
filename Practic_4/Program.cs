@@ -34,7 +34,7 @@ if (a < 10 && b < 10)
         case 5.0:
             y = 0;
             Console.WriteLine("Ваш ответ товарищ:", Convert.ToString(y));
-            break; 
+            break;
     }
 }
 
